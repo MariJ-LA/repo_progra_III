@@ -1,0 +1,16 @@
+/* css styles */
+.post-title {
+    font-size: 1.5em;
+    color: #e74c3c;
+}
+
+.post-content img {
+    max-width: 100%;
+    height: auto;
+}
+
+.quote {
+    border-left: 4px solid #2ecc71;
+    padding-left: 1em;
+    font-style: italic;
+}
